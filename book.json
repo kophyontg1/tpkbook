@@ -1,29 +1,29 @@
 [ 
 { 
-"name" :"phyowaiaung",
+"name":"phyowaiaung",
 },
 {
-"age" :"20",
+"age":"20",
 },
 {
-"city" :"mandalay",
+"city":"mandalay",
 },
 {
-"name" :"waiphyoaung",
+"name":"waiphyoaung",
 },
 {
-"age" :"20",
+"age":"20",
 },
 {
-"city" :"yangon", 
+"city":"yangon", 
 },
 {
-"name" :"waiphyoaung",
+"name":"waiphyoaung",
 },
 {
-"age" :"20", 
+"age":"20", 
 },
 {
-"city" :"yangon", 
+"city":"yangon", 
 },
 ]
